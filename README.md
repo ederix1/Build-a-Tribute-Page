@@ -43,7 +43,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Ederix Jose Herrera Peña**
 
 - GitHub: [@ederix1](https://github.com/ederix1)
 - LinkedIn:
