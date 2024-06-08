@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+
+#main {
+    background-color: #f0f0f0;
+    ;
+    border-radius: 10px;
+}
+
+#title {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 20px;
+}
+
+#description {
+    text-align: center;
+}
+
+#img-div {
+    backgound-color: black;
+    paddding: 100px;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+}
+
+#tribute-info {
+    width: 100%;
+}
+
+#subtitle {
+    font-size: 20px;
+    text-aling: center;
+    padding: 20px 0;
+    font-weight: 600;
+}
+
+ul {
+    max-width: 550px;
+    text-align: left;
+    margin: 0 auto 50px auto;
+    line-height: 2;
+}
+
+li {
+    text-align: center;
+    margin: 16px 0;
+}
