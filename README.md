@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://github.com/ederix1/Build-a-Tribute-Page.git)
 
 
 ## Getting Started
