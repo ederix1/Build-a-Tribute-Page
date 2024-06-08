@@ -20,8 +20,8 @@ body {
 }
 
 #img-div {
-    backgound-color: black;
-    paddding: 100px;
+    background-color: white;
+    padding: 10px;
 }
 
 #image {
@@ -50,4 +50,8 @@ ul {
 li {
     text-align: center;
     margin: 16px 0;
+}
+
+figcaption {
+    margin: 15px;
 }
